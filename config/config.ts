@@ -6,7 +6,7 @@ export default {
     type: 'none',
     exclude: [],
   },
-  publicPath: '/encode-hooks/',
+  publicPath: '/reactHooks/',
   history: { type: 'hash' },
   extraBabelPlugins: [
     [
@@ -20,8 +20,8 @@ export default {
   ],
   title: '印客学院 encode hooks',
   mode: 'site',
-  favicon: '/encode-hooks/avatar.png',
-  logo: '/encode-hooks/avatar.png',
+  favicon: '/reactHooks/avatar.png',
+  logo: '/reactHooks/avatar.png',
   dynamicImport: {},
   manifest: {},
   hash: true,
